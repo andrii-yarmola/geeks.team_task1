@@ -1,0 +1,30 @@
+.el1{
+	background: red;
+	width: percentage(1/7);
+	: global .src-components-tabComponent-___styles__red___Yd9JF{
+		background: red;
+	}
+	& .src-components-tabComponent-___styles__s___14JcV{
+		font-size: 10px;
+	}
+	&.src-components-tabComponent-___styles__asad111asd1___1NMiX{
+		font-size: 3px;
+	}
+}
+
+.src-components-tabComponent-___styles__asd___3ynCt {
+  appearance: none;
+  background: transparent;
+  box-shadow: none;
+  border: 1px solid #ededed;
+  padding: 0.25rem 0.5rem;
+  font-family: Lato, sans-serif;
+  color: #333;
+  margin-bottom: 0.5rem;
+  transition: border-color 0.2s ease-in-out;
+  &.src-components-tabComponent-___styles__asdaasd___qdBCV{
+  	font-size: 10px;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/

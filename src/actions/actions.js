@@ -30,7 +30,6 @@ export const asyncAction = (url, text, cb) => (dispatch, getState) => {
 		.then(status)
 		.then(json)
 		.then(function(data) {
-			console.log(text)
 			dispatch({
 					type: 'ASYNC_ACTION',
 					dataTmp: data
